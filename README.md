@@ -6,18 +6,18 @@ Indian Premier League is one of the most popular cricket leagues. We find commen
 In this Analysis we find some insights which are mentioned below
 
 
-Tosses and Matches won by each team
+(1) Tosses and Matches won by each team
 
-Stadiums with maximum match occurance
+(2) Stadiums with maximum match occurance
 
-Count of bat/bowl decision by each team on winning the toss
+(3) Count of bat/bowl decision by each team on winning the toss
 
-Top run scorers
+(4) Top run scorers
 
-Number of matches played by each team
+(5) Number of matches played by each team
 
-Probablity of winning the match by winning the toss
+(6) Probablity of winning the match by winning the toss
 
-Percentage of teams electing to bat in every season
+(7) Percentage of teams electing to bat in every season
 
-Number of man of the match awards received by each player
+(8) Number of man of the match awards received by each player
